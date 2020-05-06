@@ -1,2 +1,0 @@
-# retejsDnD
-Created with CodeSandbox
